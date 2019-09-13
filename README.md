@@ -1,2 +1,3 @@
-# evening-at-home
-A landing page to help coordinate and connect people with social evenings at home.
+# Evening at Home.
+
+The idea is simple - Evening at Home helps connect hosts with neighbors, acquaintances, and fiends.
