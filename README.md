@@ -1,3 +1,3 @@
 # Evening at Home.
 
-The idea is simple - Evening at Home helps connect hosts with neighbors, acquaintances, and fiends.
+The idea is simple - Evening at Home helps connect hosts with neighbors, acquaintances, and fiends to organize social evenings in.
