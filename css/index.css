@@ -33,7 +33,7 @@ strong {
 .main-container {
   max-width: 1000px;
   margin: 0 auto;
-  height: calc(100vh - 30px);
+  height: calc(100vh - 40px);
   display: flex;
   align-items: center;
   justify-content: space-around;
@@ -149,7 +149,6 @@ button:hover {
 .copyright {
   font-size: 1.4rem;
   margin: 0 0 15px 0;
-  height: 30px;
   letter-spacing: 0;
   text-align: center;
 }
