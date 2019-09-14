@@ -39,9 +39,24 @@ strong {
   justify-content: space-around;
 }
 
+@media (max-width: 800px) {
+  .main-container {
+    flex-direction: column;
+    height: auto;
+    margin-top: 80px;
+  }
+}
+
 /* left container section */
 .left-container {
   width: 50%;
+}
+
+@media (max-width: 800px) {
+  .left-container {
+    width: 100%;
+    padding: 0 10%;
+  }
 }
 
 .description-block {
@@ -68,6 +83,12 @@ label {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+@media (max-width: 800px) {
+  .right-container {
+    margin: 60px 0 80px 0;
+  }
 }
 
 /* form section */
@@ -127,7 +148,7 @@ button:hover {
 /* footer section */
 .copyright {
   font-size: 1.4rem;
-  margin-left: 16px;
+  margin: 0 0 15px 0;
   height: 30px;
   letter-spacing: 0;
   text-align: center;
