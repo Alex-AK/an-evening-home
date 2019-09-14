@@ -19,6 +19,7 @@ h1 {
   margin-bottom: 35px;
   text-transform: uppercase;
   letter-spacing: 3px;
+  line-height: 1.1;
   font-weight: 300;
   text-shadow: 2px 2px 1px rgba(0, 0, 0, 0.1);
 }
