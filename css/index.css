@@ -20,6 +20,7 @@ h1 {
   text-transform: uppercase;
   letter-spacing: 3px;
   font-weight: 300;
+  text-shadow: 2px 2px 1px rgba(0, 0, 0, 0.1);
 }
 
 strong {
@@ -50,6 +51,7 @@ h3 {
   font-size: 2rem;
   margin-bottom: 10px;
   font-weight: 500;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
 }
 
 p,
@@ -79,7 +81,7 @@ form {
   margin-bottom: 10px;
 }
 
-img {
+.form-heading img {
   height: 40px;
   margin: 0px 10px 8px 0;
 }
@@ -88,6 +90,7 @@ legend {
   font-size: 3rem;
   font-weight: 300;
   letter-spacing: 2px;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
 }
 
 label {
@@ -134,5 +137,11 @@ span {
 }
 
 .copyright a {
+  color: #313131;
   text-decoration: none;
+}
+
+.copyright img {
+  height: 20px;
+  margin: 0px 10px -4px 0;
 }
