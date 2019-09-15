@@ -115,6 +115,12 @@ legend {
   text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
 }
 
+@media (max-width: 800px) {
+  legend {
+    font-size: 2.4rem;
+  }
+}
+
 label {
   display: flex;
   flex-direction: column;
@@ -143,6 +149,10 @@ button {
 button:hover {
   background: #f9f0e5;
   cursor: pointer;
+}
+
+.hidden {
+  display: none;
 }
 
 /* footer section */
